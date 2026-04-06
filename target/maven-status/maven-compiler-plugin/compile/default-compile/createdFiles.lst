@@ -1,3 +1,7 @@
 br/edu/tds/projetocliente/Cliente.class
+br/edu/tds/usuario/Usuario.class
+br/edu/tds/usuario/Conexao.class
+br/edu/tds/usuario/Main.class
+br/edu/tds/usuario/UsuarioDAO.class
 br/edu/tds/projetocliente/Principal.class
 br/edu/tds/projetocliente/Produto.class
